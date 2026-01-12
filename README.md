@@ -32,11 +32,6 @@
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=DarkOnGithub&theme=catppuccin_mocha&hide_border=false" width="85%" />
-
-<br/>
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=DarkOnGithub&icon=0&color=6)](https://visitcount.itsvg.in)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DarkOnGithub&theme=catppuccin_mocha&hide_border=false)
 
 </div>
