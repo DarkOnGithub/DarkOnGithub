@@ -3,7 +3,7 @@
 # Hi there 👋
 ### I'm a CS Undergrad | AI & Machine Learning Enthusiast
 
-![Discord](https://img.shields.io/badge/Discord-__Dark______-%235865F2.svg?logo=discord&logoColor=white) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__Dark___) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@__Dark___)
+![Discord](https://img.shields.io/badge/Discord-__Dark______-%235865F2.svg?logo=discord&logoColor=white) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__Dark______) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@__Dark___)
 
 <br/>
 
