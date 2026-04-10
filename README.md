@@ -23,4 +23,5 @@
 - [**Yolosu**](https://github.com/DarkOnGithub/Yolosu) — Real-time osu! object detection using YOLO, capable of tracking gameplay elements at over 100 fps.
 - [**Smol-Imager-Exp**](https://github.com/DarkOnGithub/Smol-Imager-Exp) — Image generation experiments.
 - [**BadAppleCompression**](https://github.com/DarkOnGithub/BadAppleCompression) — Compression experiment to play Bad Apple on a TI-83 Premium CE calculator.
+- [**SimplexNoise.luau**](https://gist.github.com/DarkOnGithub/ac510c56818cf2e1c739c4a8d3846cfb) — An optimized Simplex Noise implementation for Roblox/Luau.
 
