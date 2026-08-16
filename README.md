@@ -1,7 +1,6 @@
+# DarkOnGithub 
 <div align="center">
-
-### DarkOnGithub 
-
+  
 ### CS Undergrad | AI & ML Enthusiast
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,c,cs,rust,java,kotlin,js,ts,github&theme=dark" />
