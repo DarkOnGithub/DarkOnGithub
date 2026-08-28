@@ -16,6 +16,7 @@
 - [**WordSearchOCR**](https://github.com/DarkOnGithub/WordSearchOCR) — A custom OCR + solver pipeline for word-search puzzles, built around a CNN written in C.
 - [**smolgrad-rs**](https://github.com/DarkOnGithub/smolgrad-rs) — A lightweight Rust tensor/autograd engine with Python bindings for ML experimentation.
 - [**smol-infer**](https://github.com/DarkOnGithub/smol-infer) — A minimal JIT compiler for lazy, static-shape tensor programs.
+- [**mnemo**](https://github.com/DarkOnGithub/mnemo) — A local, self-hosted Markdown knowledge workspace.
 - [**ByteBuf**](https://github.com/DarkOnGithub/ByteBuf) — A schema-based binary serialization library for Roblox TypeScript.
 
 ## Random things I made
