@@ -8,7 +8,9 @@
 </div>
 
 ---
-[**Portfolio**](https://uwu-dark.me/)
+<p align="center">
+  <a href="https://uwu-dark.me/">Portfolio</a>
+</p>
 
 ## Stuff I made
 
