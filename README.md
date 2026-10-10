@@ -30,3 +30,6 @@
 - [**BadAppleCompression**](https://github.com/DarkOnGithub/BadAppleCompression) — Compression experiment to play Bad Apple on a TI-83 Premium CE calculator.
 - [**SimplexNoise.luau**](https://gist.github.com/DarkOnGithub/ac510c56818cf2e1c739c4a8d3846cfb) — An optimized Simplex Noise implementation for Roblox/Luau.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarkOnGithub&label=Profile+views&color=6b7280&style=flat" alt="Profile views" />
+</p>
